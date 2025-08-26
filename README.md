@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Backend%20Engineer%20with%20AI%20Service%20Experience&fontSize=35&animation=fadeIn&fontAlignY=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Backend%20Engineer%20with%20AI%20Service%20Experience&fontSize=30&animation=fadeIn&fontAlignY=45&fontColor=ffffff"/>
 </div>
 
 <div align="center"><b>💡 Tech Stack</b></div>
@@ -27,6 +27,7 @@
     <!-- Web -->
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/></a>
+  <br/><br/><br/>
 </p>
 
 <div align="center"><b>📞 Contact Me</b></div>
@@ -37,16 +38,19 @@
     <a href="mailto:edgexpand@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
     </a>
+  <br/><br/><br/>
 </div>
 
 <div align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimeunsur&show_icons=true&hide=contribs&rank_icon=github&theme=tokyonight"/>
     <img height="165" src="https://streak-stats.demolab.com?user=kimeunsur&theme=tokyonight"/>
+  <br/>
 </div>
 
 <div align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeunsur&layout=compact&langs_count=8&theme=tokyonight"/>
     <img height="165" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=edgexpand"/>
+  <br/><br/>
 </div>
 
 <div align="center">
