@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Backend%20Engineer%20with%20AI%20Service%20Experience&fontSize=30&animation=fadeIn&fontAlignY=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=80&section=header&text=Backend%20Engineer%20with%20AI%20Service%20Experience&fontSize=26&animation=fadeIn&fontAlignY=45&fontColor=ffffff"/>
+  <br/><br/><br/>
 </div>
 
 <div align="center"><b>💡 Tech Stack</b></div>
