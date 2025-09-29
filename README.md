@@ -7,9 +7,7 @@
 <p align="center">
     <!-- Languages & Frameworks -->
     <a href="#"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/></a>
     <br/>
     <!-- Databases -->
@@ -25,9 +23,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white"/></a>
     <br/>
-    <!-- Web -->
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/></a>
   <br/><br/><br/>
 </p>
 
