@@ -92,7 +92,7 @@ Backend architecture for a financial point management application with caching, 
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%EC%9D%80%EC%84%9C-%EA%B9%80-6152b3274/">
+  <a href="https://www.linkedin.com/in/eunsurkim/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:edgexpand@gmail.com">
