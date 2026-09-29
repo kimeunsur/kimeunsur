@@ -1,54 +1,108 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=80&section=header&text=Backend%20Engineer%20with%20AI%20Service%20Experience&fontSize=26&animation=fadeIn&fontAlignY=45&fontColor=ffffff"/>
-  <br/><br/><br/>
-</div>
+# Eunsur Kim
 
-<div align="center"><b>💡 Tech Stack</b></div>
+Backend Engineer building reliable AI-powered services.
+
+I build backend systems and AI-powered product features with a focus on reliability, real-time communication, and production operations.
+
+Currently working as an AI Software Development Intern at Unstuck Labs, developing SaaS products and real-time AI features.
+
+---
+
+## Experience Highlights
+
+### Unstuck Labs — AI Software Development Intern
+
+- Developed backend APIs and AI features for internal SaaS products
+- Built a real-time voice booking flow using VAD, SSE streaming, and LLM-based parsing
+- Designed idempotent and atomic booking flows to prevent duplicate reservations and credit transactions
+- Implemented retry, backoff, connection recovery, and synchronization logic for unstable mobile network environments
+- Improved AI agent reliability with iteration limits, retry guards, and transaction-level safeguards
+
+### Coga Robotics — AI Backend Intern
+
+- Developed conversational booking flows using structured AI tool execution and slot-based request processing
+- Built and operated Kafka-based backend workflows connected to automation pipelines
+- Investigated production message loss by tracing data sources, offsets, and duplicate-processing behavior
+- Improved pipeline reliability with custom wrappers and compensation logic
+- Operated backend services on Linux servers with MongoDB
+
+### LittleBank — Backend Developer Freelancer
+
+- Developed backend services for a financial point management application using Spring Boot
+- Introduced Redis caching to reduce repeated database access and improve response performance
+- Built cloud infrastructure using AWS EC2, RDS, S3, IAM, and CloudWatch
+- Automated deployment workflows with GitHub Actions
+- Converted manual Postman-based testing scenarios into automated Spring Boot tests
+
+---
+
+## Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+### Data & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
+
+### Infrastructure & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### AI & Real-time
+
+`LLM APIs` · `AI Agents` · `Function Calling` · `SSE` · `Voice AI` · `VAD`
+
+---
+
+## Selected Work
+
+### Real-time Voice Booking Agent
+
+Voice-based booking system designed for low-latency interactions and reliable transaction processing.
+
+`VAD` · `SSE` · `LLM` · `PostgreSQL` · `Idempotency` · `Atomic Transactions`
+
+### Kafka Workflow Reliability
+
+Backend workflow for processing production events between Kafka and automation pipelines, with safeguards against message loss and duplicate processing.
+
+`Kafka` · `MongoDB` · `Linux` · `Workflow Automation`
+
+### LittleBank Backend
+
+Backend architecture for a financial point management application with caching, cloud infrastructure, automated deployment, and API testing.
+
+`Spring Boot` · `MySQL` · `Redis` · `AWS` · `GitHub Actions`
+
+---
+
+## GitHub
+
 <p align="center">
-    <!-- Languages & Frameworks -->
-    <a href="#"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/></a>
-    <br/>
-    <!-- Databases -->
-    <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/></a>
-    <br/>
-    <!-- Tools & Platforms -->
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white"/></a>
-    <br/>
-  <br/><br/><br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimeunsur&show_icons=true&hide=contribs&rank_icon=github&theme=tokyonight"/>
 </p>
 
-<div align="center"><b>📞 Contact Me</b></div>
-<div align="center">
-    <a href="https://www.linkedin.com/in/%EC%9D%80%EC%84%9C-%EA%B9%80-6152b3274/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:edgexpand@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-    </a>
-  <br/><br/><br/>
-</div>
+---
 
-<div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimeunsur&show_icons=true&hide=contribs&rank_icon=github&theme=tokyonight"/>
-    <img height="165" src="https://streak-stats.demolab.com?user=kimeunsur&theme=tokyonight"/>
-  <br/>
-</div>
+## Connect
 
-<div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimeunsur&layout=compact&langs_count=8&theme=tokyonight"/>
-    <img height="165" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=edgexpand"/>
-  <br/><br/>
-</div>
-
-<div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kimeunsur.kimeunsur"/>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/%EC%9D%80%EC%84%9C-%EA%B9%80-6152b3274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:edgexpand@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
